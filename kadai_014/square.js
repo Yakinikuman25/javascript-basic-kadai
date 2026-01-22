@@ -1,6 +1,5 @@
-
-const square = ( price ) => {
-    console.log(price **2);
+const total = (num) => {
+  return num ** 2;
 }
 
-square(10);
+console.log(total(10));
